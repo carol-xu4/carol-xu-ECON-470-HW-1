@@ -1,0 +1,12 @@
+---
+title: "Carol Xu Homework 1"
+subtitle: "Research Methods, Spring 2024"
+author: "Answer Key"
+format:
+  pdf:
+    output-file: "xu-c-hwk1-3"
+    output-ext:  "pdf"
+---
+{r}
+
+
